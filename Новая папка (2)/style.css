@@ -1,0 +1,23 @@
+.box{
+    width: 50%;
+    border: 15px solid red;
+    text-align: center;
+    margin: 0 auto;
+}
+.box{
+    width: 50%;
+    border: 15px dashed red;
+    text-align: center;
+    margin: 0 auto;
+}.box{
+    width: 50%;
+    border: 15px dotted red;
+    text-align: center;
+    margin: 0 auto;
+}
+.box{
+    width: 50%;
+    border: 15px double red;
+    text-align: center;
+    margin: 0 auto;
+}
